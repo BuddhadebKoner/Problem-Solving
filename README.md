@@ -1,4 +1,4 @@
 # Problem-Solving
 
-![image](https://github.com/BuddhadebKoner/Problem-Solving/assets/113292029/04d467a7-7513-43df-8f41-268cb929a6c9)
 
+![Data-Structures-Algorithms](https://github.com/BuddhadebKoner/Problem-Solving/assets/113292029/76b2cae1-6cdc-4a6f-a632-094d3469c96c)
