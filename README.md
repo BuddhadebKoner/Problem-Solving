@@ -1,3 +1,4 @@
 # Problem-Solving
 
-![image](https://github.com/BuddhadebKoner/Problem-Solving/assets/113292029/15524241-847f-4780-b341-8666e5eb1690)
+![image](https://github.com/BuddhadebKoner/Problem-Solving/assets/113292029/04d467a7-7513-43df-8f41-268cb929a6c9)
+
