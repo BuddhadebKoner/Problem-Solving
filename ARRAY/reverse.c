@@ -20,6 +20,7 @@ int main() {
         temp = arr[i];
         arr[i] = arr[num - i - 1];
         arr[num - i - 1] = temp;
+        
     }
     
     // Print the reversed array
